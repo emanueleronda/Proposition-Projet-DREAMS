@@ -1,0 +1,17 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/c:\\Users\\ronda\\OneDrive\\Desktop\\dreams\\introduction.aux": true,
+        "**/c:\\Users\\ronda\\OneDrive\\Desktop\\dreams\\introduction.log": true,
+        "**/c:\\Users\\ronda\\OneDrive\\Desktop\\dreams\\introduction.gz": true,
+        "**/c:\\Users\\ronda\\OneDrive\\Desktop\\dreams\\introduction.out": true,
+        "**/c:\\Users\\ronda\\OneDrive\\Desktop\\dreams\\main.aux": true,
+        "**/c:\\Users\\ronda\\OneDrive\\Desktop\\dreams\\main.log": true,
+        "**/c:\\Users\\ronda\\OneDrive\\Desktop\\dreams\\main.gz": true,
+        "**/c:\\Users\\ronda\\OneDrive\\Desktop\\dreams\\main.out": true
+    }
+}
